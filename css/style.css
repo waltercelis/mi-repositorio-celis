@@ -1,3 +1,11 @@
+* {
+    font-family: sans-serif;
+}
 h1 {
     color: red;
+}
+h2 {
+    color: white;
+    background-color: black;
+    display: inline-block;
 }
